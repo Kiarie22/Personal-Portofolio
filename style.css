@@ -21,7 +21,9 @@ nav ul li {
   display: inline;
   margin: 0 1rem;
 }
-
+h3 {
+  color: #f1c40f; /* yellow subheadings */
+}
 nav ul li a {
   color: white;
   text-decoration: none;
